@@ -25,7 +25,7 @@ Task 2: Student Digital Portfolio
 
 Profiles created/updated on:
 
-GitHub → https://github.com/anuragtiwari8006-dev
+GitHub → https://github.com/kartik25bas10071
 
 LinkedIn → https://www.linkedin.com/in/kartik-yadav-662a103bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
